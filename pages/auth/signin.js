@@ -5,7 +5,7 @@ function signin({ providers }) {
   return (
     <>
       <Header />
-      <div className="flex flex-col items-center justify-center min-h-screen py-2 -mt-56 px-14 text-center">
+      <div className="flex flex-col items-center justify-center min-h-screen py-2 -mt-28 px-14 text-center">
           <img className="w-80" src="https://chris-risner-portfolio.herokuapp.com/api/shorturl/UXIs6r-6" alt="" />
           <p className="font-xs italic">This is not a REAL app, it is a clone app using React JS, Next JS & Tailwind CSS</p>
         <div className="mt-40">
